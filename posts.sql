@@ -41,7 +41,7 @@ CREATE TABLE `posts` (
 --
 
 INSERT INTO `posts` (`id`, `namepost`, `text`, `user_id`, `created`, `image`) VALUES
-(17, 'New post ', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar sapien et ligula ullamcorper. Blandit aliquam etiam erat velit scelerisque in. Consectetur adipiscing elit ut aliquam purus sit amet. Leo vel fringilla est ullamcorper eget. Id faucibus nisl tincidunt eget nullam non nisi. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Auctor elit sed vulputate mi sit. Euismod quis viverra nibh cras pulvinar mattis nunc. Ornare arcu dui vivamus arcu felis bibendum ut. Nunc congue nisi vitae suscipit tellus. Quis risus sed vulputate odio. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed.', 27, '2023-05-23 19:40:03', 'i1684860003.png');
+(17, 'New post ', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar sapien et ligula ullamcorper. Blandit aliquam etiam erat velit scelerisque in. Consectetur adipiscing elit ut aliquam purus sit amet. Leo vel fringilla est ullamcorper eget. Id faucibus nisl tincidunt eget nullam non nisi. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Auctor elit sed vulputate mi sit. Euismod quis viverra nibh cras pulvinar mattis nunc. Ornare arcu dui vivamus arcu felis bibendum ut. Nunc congue nisi vitae suscipit tellus. Quis risus sed vulputate odio. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed.', 27, '2023-05-23 19:40:03', 'P1684869091.png');
 
 --
 -- Индексы сохранённых таблиц
